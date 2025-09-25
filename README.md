@@ -1,7 +1,7 @@
 # DevOps Learning Notes
 
 這是我的 DevOps 學習筆記，紀錄從零開始到逐步熟悉 Linux、Git、Python、CI/CD、
-雲端自動化的過程。每一天的練習都像遊戲存檔，方便自己回顧，也能當成作品展示。
+雲端自動化的過程。每一天練習都像遊戲存檔，方便自己回顧，也能當成作品展示。
 
 ## 🎯 學習目標
 - 打好 Linux & Git 基礎
@@ -67,9 +67,9 @@ git commit -m "Day2: 路徑與通配符練習筆記"
 git push origin main
 
 
-（如果妳的分支不是 main，可能是 master，就改成 git push origin master）
+（如果分支不是 main，可能是 master，就改成 git push origin master）
 
-###🕹️ Step 6：（可選）確認 GitHub 上是否更新
+### Step 6：（可選）確認 GitHub 上是否更新
 
 打開 GitHub repo 頁面，看筆記是否出現在雲端。
 
